@@ -1,0 +1,21 @@
+:root {
+  --ol-bg: #07111f;
+  --ol-bg-elevated: #0d1a2b;
+  --ol-surface: rgba(13, 26, 43, 0.88);
+  --ol-surface-strong: #102239;
+  --ol-accent: #59d6c9;
+  --ol-accent-bright: #9af2df;
+  --ol-accent-soft: rgba(89, 214, 201, 0.16);
+  --ol-secondary: #7aa7ff;
+  --ol-warning: #f4b860;
+  --ol-error: #ff7a70;
+  --ol-text: #edf7f5;
+  --ol-text-muted: #b1c4c0;
+  --ol-border: rgba(154, 242, 223, 0.22);
+  --ol-font-sans: Inter, "Segoe UI", system-ui, sans-serif;
+  --ol-font-mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+  --ol-radius-sm: 0.375rem;
+  --ol-radius-md: 0.75rem;
+  --ol-radius-lg: 1rem;
+  --ol-shadow-panel: 0 1rem 3rem rgba(2, 8, 16, 0.42);
+}

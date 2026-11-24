@@ -120,7 +120,7 @@ watch(step, async () => {
     ?.focus?.({ preventScroll: true });
 });
 const TITLES = [
-  msg('Welcome to God\'s Eye View'),
+  msg('Welcome to Orbit Lens'),
   msg('Where do you want to start?'),
   msg('Three things to know'),
 ];
